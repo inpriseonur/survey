@@ -27,10 +27,10 @@ def create_sidebar(df):
 
 def calculate_data (df):
     df_supports =df[df['Answer'] > 8] #find supports
-    df_calculate = df_supports.groupby(by=['Question','Departmant']).count()[['Answer']] 
+    df_calculate = df_supports.groupby(by=['Question','Departmant']).count()[['Answer']]
     df_calculate['Supporters'] = df_calculate['Answer']
 
-    df_notr= df.loc[(df['Answer'] >6) & (df['Answer'] <9)] #find notr
+    df_notr= df[(df['Answer'] >6) & (df['Answer'] <9)] #find notr
     df_notr = df_notr.groupby(by=['Question','Departmant']).count()[['Answer']] 
     df_calculate['Notur'] = df_notr['Answer']
 
@@ -52,6 +52,32 @@ def calculate_data (df):
 
     return df_calculate
 
+def calculate_data2 (df):
+    df_supports =df[df['Answer'] > 8] #find supports
+    df_calculate = df_supports.groupby(['Question','Departmant'], as_index = False).size()
+    df_calculate['Supporters'] = df_calculate['size']
+
+    df_notr= df[(df['Answer'] >6) & (df['Answer'] <9)] #find notr
+    df_notr = df_notr.groupby(['Question','Departmant'], as_index= False).size() 
+    df_calculate['Notur'] = df_notr['size']
+
+    df_detractors =df[df['Answer'] < 7] #find detractors
+    df_detractors = df_detractors.groupby(['Question','Departmant'], as_index= False).size()
+    df_calculate['Detractors'] = df_detractors ['size']
+
+    df_total_count = df.groupby(['Question','Departmant'], as_index = False).size() #sum partisipated employee of survey 
+    df_calculate['SUM'] = df_total_count['size']
+
+    suports_yuzdesi = df_calculate['Supporters'] / (df_calculate['SUM'] / 100)
+    df_calculate['Supporters %'] = round(suports_yuzdesi,2)
+
+    notr_yuzdesi = df_calculate['Notur'] / (df_calculate['SUM'] / 100)
+    df_calculate['Notur %'] = round(notr_yuzdesi, 2)
+
+    detractors_yuzdesi = df_calculate['Detractors'] / (df_calculate['SUM'] / 100)
+    df_calculate['Detractors %'] = round(detractors_yuzdesi,2)
+
+    return df_calculate
 
 
 def analysis_data (df):
@@ -62,16 +88,16 @@ def analysis_data (df):
 df = survey_data_load() #first data load 
 df = create_sidebar (df) # creating sidebar objects and data
 #df = analysis_data (df)
-df_calc = calculate_data(df)
-st.write(df_calc) 
+df_calc = calculate_data2(df)
+st.data_editor(df_calc) 
 
-investment_by_business_type=(
-    df_calc.groupby(by=["Departmant"]).count()[["Detractors %"]].sort_values(by="Detractors %")
-)
+investment_by_business_type= df_calc
+st.write (investment_by_business_type)
+
 fig_investment=px.bar(
     investment_by_business_type,
     x="Detractors %",
-    y=investment_by_business_type.index,
+    y="Departmant",
     orientation="h",
     title="<b> Investment by Business Type </b>",
     color_discrete_sequence=["#0083B8"]*len(investment_by_business_type),
