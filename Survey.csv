@@ -1,30 +1,4 @@
 Anket_ID,Date,Survey,Question,Answer,Departmant,Job Title,Team,Start_date,Is_manager
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,IT,Developer,ERP,01.10.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,IT,DB Admin,Admin,05.05.2021,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,IT,Developer,ERP,08.07.2021,Evet
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,IT,DB Admin,Admin,09.05.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",3,IT,DevOps,Admin,10.08.2023,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,IT,DB Admin,Admin,01.04.2023,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",2,IT,Developer,ERP,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,IT,DevOps,Admin,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,06.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Marketing,Marketing Specilist,Marketing,10.10.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",2,Marketing,Marketing Specilist,Marketing,05.11.2023,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Human Resource,Job Hunter,Job Creation,24.12.2022,Evet
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Human Resource,Job Hunter,Job Creation,30.06.2021,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Human Resource,Employee Exp,Experience,11.03.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Human Resource,Employee Exp,Experience,01.12.2020,Evet
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,IT,Project Manager,CRM,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,IT,Project Manager,ERP,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,IT,Project Manager,ERP,07.06.2022,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Digital Cons.,Digital Marketing,08.07.2021,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Digital Cons.,Digital Marketing,08.07.2021,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Marketing Specilist,Marketing,10.10.2023,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,05.11.2020,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Human Resource,Employee Exp,Experience,11.03.2021,Hayır
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Human Resource,Payroll Cons.,PayRoll,11.06.2022,Evet
 1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Reports Cons.,Reports,11.06.2022,Evet
 1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Reports Cons.,Reports,11.06.2022,Hayır
 1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Finance,Reports Cons.,Reports,11.06.2022,Hayır
@@ -38,7 +12,33 @@ Anket_ID,Date,Survey,Question,Answer,Departmant,Job Title,Team,Start_date,Is_man
 1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Finance,Accounter,Account,11.06.2022,Hayır
 1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Finance,Customer Releation,Customer,11.06.2022,Hayır
 1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Customer Releation,Customer,11.06.2022,Evet
-1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,IT,Developer,CRM,07.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Reports Cons.,Reports,11.06.2022,Evet
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Finance,Reports Cons.,Reports,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Finance,Reports Cons.,Reports,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Reports Cons.,Reports,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Finance,Finance Manager,Banking,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Finance Manager,Banking,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,Finance,Finance Manager,Banking,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Accounter,Account,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Finance,Accounter,Account,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Accounter,Account,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Accounter,Account,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Finance,Customer Releation,Customer,11.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,Finance,Customer Releation,Customer,11.06.2022,Evet
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Human Resource,Job Hunter,Job Creation,24.12.2022,Evet
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Human Resource,Job Hunter,Job Creation,30.06.2021,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Human Resource,Employee Exp,Experience,11.03.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Human Resource,Employee Exp,Experience,01.12.2020,Evet
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Human Resource,Employee Exp,Experience,11.03.2021,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Human Resource,Payroll Cons.,PayRoll,11.06.2022,Evet
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Human Resource,Job Hunter,Job Creation,24.12.2022,Evet
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Human Resource,Job Hunter,Job Creation,30.06.2021,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Human Resource,Employee Exp,Experience,11.03.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Human Resource,Employee Exp,Experience,01.12.2020,Evet
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Human Resource,Employee Exp,Experience,11.03.2021,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Human Resource,Payroll Cons.,PayRoll,11.06.2022,Evet
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,IT,Developer,ERP,01.10.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,IT,DB Admin,Admin,05.05.2021,Hayır
 1,05.01.2023,Mutluluk Anketi,Doğrudan yöneticinizden aldığınız desteği nasıl değerlendirirsiniz?,9,IT,Developer,ERP,01.10.2022,Hayır
 1,05.01.2023,Mutluluk Anketi,Doğrudan yöneticinizden aldığınız desteği nasıl değerlendirirsiniz?,6,IT,DB Admin,Admin,05.05.2021,Hayır
 1,05.01.2023,Mutluluk Anketi,Doğrudan yöneticinizden aldığınız desteği nasıl değerlendirirsiniz?,5,IT,Developer,ERP,08.07.2021,Evet
@@ -119,6 +119,18 @@ Anket_ID,Date,Survey,Question,Answer,Departmant,Job Title,Team,Start_date,Is_man
 1,05.01.2023,Mutluluk Anketi,İş yerindeki katkılarınız için ne sıklıkla takdir edildiğinizi ve tanındığınızı hissediyorsunuz?,4,Finance,Accounter,Account,11.06.2022,Hayır
 1,05.01.2023,Mutluluk Anketi,İş yerindeki katkılarınız için ne sıklıkla takdir edildiğinizi ve tanındığınızı hissediyorsunuz?,5,Finance,Customer Releation,Customer,11.06.2022,Hayır
 1,05.01.2023,Mutluluk Anketi,İş yerindeki katkılarınız için ne sıklıkla takdir edildiğinizi ve tanındığınızı hissediyorsunuz?,8,Finance,Customer Releation,Customer,11.06.2022,Evet
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,IT,Developer,ERP,08.07.2021,Evet
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,IT,DB Admin,Admin,09.05.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",3,IT,DevOps,Admin,10.08.2023,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,IT,DB Admin,Admin,01.04.2023,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",2,IT,Developer,ERP,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,IT,DevOps,Admin,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,IT,Project Manager,CRM,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,IT,Project Manager,ERP,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,IT,Project Manager,ERP,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,IT,Developer,CRM,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,IT,Developer,ERP,01.10.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,IT,DB Admin,Admin,05.05.2021,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,ERP,08.07.2021,Evet
@@ -127,38 +139,26 @@ Anket_ID,Date,Survey,Question,Answer,Departmant,Job Title,Team,Start_date,Is_man
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,IT,DB Admin,Admin,01.04.2023,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",3,IT,Developer,ERP,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,IT,DevOps,Admin,07.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Marketing,Marketing Specilist,Marketing,06.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Marketing,Marketing Specilist,Marketing,10.10.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,05.11.2023,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Human Resource,Job Hunter,Job Creation,24.12.2022,Evet
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Human Resource,Job Hunter,Job Creation,30.06.2021,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Human Resource,Employee Exp,Experience,11.03.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Human Resource,Employee Exp,Experience,01.12.2020,Evet
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",3,IT,Developer,CRM,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Project Manager,CRM,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",2,IT,Project Manager,ERP,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Project Manager,ERP,07.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,06.06.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Marketing,Marketing Specilist,Marketing,10.10.2022,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",2,Marketing,Marketing Specilist,Marketing,05.11.2023,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Digital Cons.,Digital Marketing,08.07.2021,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Digital Cons.,Digital Marketing,08.07.2021,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Marketing Specilist,Marketing,10.10.2023,Hayır
+1,05.01.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,05.11.2020,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Marketing,Marketing Specilist,Marketing,06.06.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",7,Marketing,Marketing Specilist,Marketing,10.10.2022,Hayır
+2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,05.11.2023,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Marketing,Digital Cons.,Digital Marketing,08.07.2021,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Marketing,Digital Cons.,Digital Marketing,08.07.2021,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Marketing,Marketing Specilist,Marketing,10.10.2023,Hayır
 2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Marketing,Marketing Specilist,Marketing,05.11.2020,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Human Resource,Employee Exp,Experience,11.03.2021,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Human Resource,Payroll Cons.,PayRoll,11.06.2022,Evet
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Reports Cons.,Reports,11.06.2022,Evet
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Finance,Reports Cons.,Reports,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",6,Finance,Reports Cons.,Reports,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Reports Cons.,Reports,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Finance,Finance Manager,Banking,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Finance Manager,Banking,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,Finance,Finance Manager,Banking,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Accounter,Account,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,Finance,Accounter,Account,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",9,Finance,Accounter,Account,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",5,Finance,Accounter,Account,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",10,Finance,Customer Releation,Customer,11.06.2022,Hayır
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",4,Finance,Customer Releation,Customer,11.06.2022,Evet
-2,11.02.2023,Mutluluk Anketi,"‍""Bizi tercih ettiğiniz bir işveren olarak ailenize, arkadaşlarınıza ve çevrenize tavsiye etme olasılığınız nedir?""",8,IT,Developer,CRM,07.06.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,Doğrudan yöneticinizden aldığınız desteği nasıl değerlendirirsiniz?,8,IT,Developer,ERP,01.10.2022,Hayır
 2,11.02.2023,Mutluluk Anketi,Doğrudan yöneticinizden aldığınız desteği nasıl değerlendirirsiniz?,6,IT,DB Admin,Admin,05.05.2021,Hayır
 2,11.02.2023,Mutluluk Anketi,Doğrudan yöneticinizden aldığınız desteği nasıl değerlendirirsiniz?,6,IT,Developer,ERP,08.07.2021,Evet
